@@ -52,36 +52,12 @@
 }
 
 .iconos {
-    padding: 5px;
-    font-size: 50px;
-    width: 50px;
+    padding: 6px;
+    font-size: 30px;
+    width: 40px;
     text-align: center;
     text-decoration: none;
     border-radius: 100%;
-    background: black;
-    color: white;
-}
-
-.fa {}
-
-.fa-twitter {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-    background: black;
-    color: white;
-}
-
-.fa-linkedin {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
     background: black;
     color: white;
 }
@@ -130,7 +106,12 @@
     font-family: 'Changa', sans-serif;
 }
 
-#welcomePic h1,
+#portfolio h1,
+p {
+    font-family: 'Changa', sans-serif;
+}
+
+h1,
 h2,
 h3 {
     font-family: 'Changa', sans-serif;
@@ -177,7 +158,6 @@ h3 {
 #welcomePic {
     color: white;
     position: absolute;
-    width: 800px;
     right: 20%;
     top: 35%;
 }
